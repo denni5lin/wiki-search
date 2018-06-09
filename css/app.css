@@ -1,0 +1,56 @@
+h1 {
+	background: #A4A4A4;
+	color: white;
+	margin: 0;
+	padding: 10px 20px;
+	text-transform: uppercase;
+	font-size: 24px;
+	font-weight: normal;
+}
+
+a {
+  color: #6E6E6E;
+}
+
+#container {
+	width: 360px;
+	margin: 100px auto;
+	background: #f7f7f7;
+	box-shadow: 0 0 3px rgba(0,0,0,0.1);
+}
+
+#searchTerm {
+	font-size: 18px;
+	color: #2980b9;
+	background-color: #f7f7f7;
+	width: 100%;
+	padding: 13px 13px 13px 20px;
+	box-sizing: border-box;
+	border: 3px solid rgba(0,0,0,0);
+}
+
+#random {
+  float: right;
+}
+
+#content {
+  width: 900px;
+  margin: 100px auto;
+  text-align: center;
+}
+
+.fa-search {
+  float: right;
+}
+
+.fa-times {
+  float: right;
+}
+
+button a:hover {
+  color: #FFFFFF;
+}
+
+a:hover {
+  text-decoration: none;
+}
