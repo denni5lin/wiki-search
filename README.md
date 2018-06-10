@@ -19,6 +19,7 @@ This was a take home project on FreeCodeCamp - build a wikipedia viewer!
 
 ## Dependencies
 
+* Wikipedia's API
 * Font Awesome
 * Bootstrap
 * jQuery
