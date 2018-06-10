@@ -10,15 +10,18 @@
 
 ## Description
 
-Coming soon! 
+This was a take home project on FreeCodeCamp - build a wikipedia viewer!
 
 ## Instructions
 
-Coming soon!
+* I can search Wikipedia entries in a search box and see the resulting Wikipedia entries
+* I can click a button to see a random Wikipedia entry
 
 ## Dependencies
 
 * Font Awesome
+* Bootstrap
+* jQuery
 
 ## License
 
