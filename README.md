@@ -10,12 +10,12 @@
 
 ## Description
 
-This was a take home project on FreeCodeCamp - build a wikipedia viewer!
+First, click the magnifying glass to expand the search bar. Type anything in the search field, press the `enter key` or the `submit` button and you will get the top 10 results from Wikipedia. When done, press `x` to exit your search.
 
 ## Instructions
 
 * I can search Wikipedia entries in a search box and see the resulting Wikipedia entries
-* I can click a button to see a random Wikipedia entry
+* I can click `random` button to see a random Wikipedia entry
 
 ## Dependencies
 
